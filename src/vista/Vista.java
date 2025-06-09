@@ -156,14 +156,14 @@ public class Vista extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton btnGenerarTexto;
-    private javax.swing.JTextArea campoTexto;
-    private javax.swing.JTextField campoVeces;
-    private javax.swing.JLabel etiquetaCampoTexto;
-    private javax.swing.JLabel etiquetaCampoVeces;
-    private javax.swing.JLabel etiquetaTextoRepetido;
-    private javax.swing.JScrollPane scroll;
-    private javax.swing.JSeparator separador;
-    private javax.swing.JLabel titulo;
+    public javax.swing.JButton btnGenerarTexto;
+    public javax.swing.JTextArea campoTexto;
+    public javax.swing.JTextField campoVeces;
+    public javax.swing.JLabel etiquetaCampoTexto;
+    public javax.swing.JLabel etiquetaCampoVeces;
+    public javax.swing.JLabel etiquetaTextoRepetido;
+    public javax.swing.JScrollPane scroll;
+    public javax.swing.JSeparator separador;
+    public javax.swing.JLabel titulo;
     // End of variables declaration//GEN-END:variables
 }
